@@ -1,0 +1,16 @@
+D:\User Data\Documents\Programming\Exercise12\Exercise12\bin\Debug\Exercise12.exe.config
+D:\User Data\Documents\Programming\Exercise12\Exercise12\bin\Debug\Exercise12.exe
+D:\User Data\Documents\Programming\Exercise12\Exercise12\bin\Debug\Exercise12.pdb
+D:\User Data\Documents\Programming\Exercise12\Exercise12\bin\Debug\EntityFramework.dll
+D:\User Data\Documents\Programming\Exercise12\Exercise12\bin\Debug\EntityFramework.SqlServer.dll
+D:\User Data\Documents\Programming\Exercise12\Exercise12\bin\Debug\EntityFramework.xml
+D:\User Data\Documents\Programming\Exercise12\Exercise12\bin\Debug\EntityFramework.SqlServer.xml
+D:\User Data\Documents\Programming\Exercise12\Exercise12\obj\Debug\Exercise12.csprojAssemblyReference.cache
+D:\User Data\Documents\Programming\Exercise12\Exercise12\obj\Debug\Exercise12.csproj.CoreCompileInputs.cache
+D:\User Data\Documents\Programming\Exercise12\Exercise12\obj\Debug\Exercise12.csproj.CopyComplete
+D:\User Data\Documents\Programming\Exercise12\Exercise12\obj\Debug\Exercise12.exe
+D:\User Data\Documents\Programming\Exercise12\Exercise12\obj\Debug\Exercise12.pdb
+D:\User Data\Documents\Programming\Exercise12\Exercise12\obj\Debug\Exercise12.Migrations.InitialMigration.resources
+D:\User Data\Documents\Programming\Exercise12\Exercise12\obj\Debug\Exercise12.csproj.GenerateResource.cache
+D:\User Data\Documents\Programming\Exercise12\Exercise12\obj\Debug\Exercise12.Migrations.RelationshipAdded.resources
+D:\User Data\Documents\Programming\Exercise12\Exercise12\obj\Debug\Exercise12.Migrations.WhatIsGoingOn.resources
